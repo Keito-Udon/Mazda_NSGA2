@@ -1,0 +1,18 @@
+# 実行ファイル（著作権保護・再配布禁止）
+bin/*.exe
+*.exe
+
+# 設計定義書（配布元規約に基づく）
+Info_Mazda_CdMOBP.xlsx
+
+# Pythonの一時ファイル
+__pycache__/
+*.py[cod]
+
+# 計算用データ（中身のみ無視）
+sample/*
+results/*
+
+# OS固有のゴミファイル
+.DS_Store
+Thumbs.db
